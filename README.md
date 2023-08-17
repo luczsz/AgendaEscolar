@@ -32,9 +32,7 @@ Através de nossa agenda digital, os alunos podem acompanhar seus horários de a
 
 
 ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![Instagram post - 1 (1)](https://github.com/luczsz/AgendaEscolar/assets/99900073/d1b92b31-6066-4ea4-8991-91a1a800f18e)
 
 ## Autores
 

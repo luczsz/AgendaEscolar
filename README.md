@@ -1,8 +1,6 @@
 
 # AGENDA ESCOLAR
 
-Claro, aqui está uma breve descrição para o seu projeto "Agenda Escolar para Alunos do Ensino Fundamental":
-
 "Nosso projeto 'Agenda Escolar para Alunos do Ensino Fundamental' é uma ferramenta dedicada a simplificar a vida escolar de estudantes em seus primeiros anos de aprendizado. Com uma abordagem intuitiva e amigável, oferecemos uma plataforma digital que permite aos alunos e seus pais manterem-se atualizados com as atividades acadêmicas e compromissos importantes.
 
 Através de nossa agenda digital, os alunos podem acompanhar seus horários de aula, lições de casa, datas de provas e eventos escolares de forma organizada e interativa. Além disso, a plataforma oferece a possibilidade de receber notificações personalizadas, garantindo que nenhuma tarefa importante seja esquecida.

@@ -1,11 +1,15 @@
 import React from 'react';
 import { View, Text, Image, TouchableOpacity } from 'react-native';
+import { useNavigation } from '@react-navigation/native';
 
 import { styles } from './style';
 import LogoBranco from '../../assets/logo2.png';
 
 export default function Splash() {
- return (
+    
+    const navigation = useNavigation();
+ 
+    return (
    <View style={styles.container}>
 
         <View style={styles.imgs}>
@@ -16,6 +20,7 @@ export default function Splash() {
         <View style={styles.bnts}>
             <TouchableOpacity
                 style={styles.button}
+                onPress={ () => navigation.navigate('Login')}
             >
                 <Text style={styles.buttonText}>
                     ENTRAR

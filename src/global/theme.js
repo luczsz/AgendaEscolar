@@ -3,8 +3,9 @@ export const theme = {
     colors: {
         primary: '#55CCCC',
 
-        secondary50: '#717F7F', 
-        secondary40: '#F5F5F8FE', 
+        secondary60: '#717F7F', 
+        secondary50: '#A0A0A0', 
+        secondary40: '#F1F5F4', 
        
         overlay: 'rgba(0,0,0,0.7)',
         highlight: '#ABB1CC',
